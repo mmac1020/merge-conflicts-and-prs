@@ -8,3 +8,11 @@ const kendall = {
 function kendallFunc(obj) {
   console.log(obj)
 }
+const mac = {
+  name: 'mac',
+  job: 'instructor'
+}
+
+function macFunc(param) {
+  console.log(param);
+}
